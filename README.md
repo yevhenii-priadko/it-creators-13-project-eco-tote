@@ -1,7 +1,7 @@
 # 👜 Eco-Tote — Стиль, що не шкодить планеті
 
 <p align="center">
-  <img src="src/public/img/hero-section-preview.png" alt="Eco-Tote Preview" width="100%">
+  <img src="src/public/eco-tote-preview.png" alt="Eco-Tote Preview" width="100%">
 </p>
 
 ---
