@@ -81,7 +81,7 @@
 **Клонувати репозиторій:**
 
 ```bash
-git clone https://github.com/Evgeniy-sub8way/it-creators-project-meblerija.git
+git clone https://github.com/yevhenii-priadko/it-creators-13-project-eco-tote.git
 ```
 
 **Встановити залежності:**
